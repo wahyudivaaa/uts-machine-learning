@@ -138,5 +138,3 @@ X_new = np.array([[3, 2, 5.5, 8, 0]])  # [Kamar, KamarMandi, JarakPusat, AksesTr
 prediction = model.predict(X_new)
 print(f"Prediksi harga: {prediction[0]:.2f}")
 ```
-
-Semoga sukses UTS-nya! ✨
