@@ -1,6 +1,6 @@
-# UTS — Polynomial Regression (Sklearn)
+# UTS Machine Learning
 
-Proyek Python murni (siap di VS Code) untuk tugas **Polynomial Regression** dengan **GridSearchCV** pada derajat 1–5, regularisasi **Ridge/Lasso**, **K-Fold CV (k=5)**, **learning curve**, dan visualisasi residual serta _predicted vs actual_. Menggunakan dataset sintetis (400 baris).
+Proyek Python dengan **GridSearchCV** pada derajat 1–5, regularisasi **Ridge/Lasso**, **K-Fold CV (k=5)**, **learning curve**, dan visualisasi residual serta _predicted vs actual_. Menggunakan dataset sintetis (400 baris).
 
 ## Struktur Proyek
 ```
